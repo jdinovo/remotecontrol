@@ -294,12 +294,12 @@
                 android:paddingStart="5dp"
                 android:showText="true"
                 android:singleLine="false"
-                android:switchTextAppearance="@android:style/TextAppearance.DeviceDefault.Small"
+                android:switchTextAppearance="@android:style/TextAppearance.DeviceDefault.Small.Inverse"
                 android:text="Unit"
                 android:textColor="@color/white"
                 android:textOff="MPH"
                 android:textOn="KMH"
-                android:thumb="@color/common_action_bar_splitter"
+                android:thumb="@color/black"
                 android:track="@color/black"
                 android:visibility="visible" />
 

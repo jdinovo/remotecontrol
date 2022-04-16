@@ -70,7 +70,7 @@ public class MainActivity extends Activity implements SensorEventListener {
 
     //Sensordata damping elements
     private List<Float> rollingAverage = new ArrayList<Float>();
-    private static final int MAX_SAMPLE_SIZE = 3;
+    private static final int MAX_SAMPLE_SIZE = 5;
     private float gravity;
 
     //UI Elements
